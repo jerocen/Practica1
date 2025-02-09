@@ -132,7 +132,7 @@ namespace Practica_1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(826, 450);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
